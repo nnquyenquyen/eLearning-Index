@@ -1,6 +1,8 @@
 # eLearning Index Project
 This project aims to provide a dynamic and interactive representation of the annual eLearning Index based on extensive secondary data analysis from the U.S. Bureau of Labor Statistics and the National Association of Colleges and Employers. By transforming a static, paper-based index into an engaging Tableau workbook, this project enhances accessibility and usability, making it easier for stakeholders to explore and derive insights from the data.
 
+Tableau Public: https://public.tableau.com/views/2023OfficialeLearningIndex/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
+
 ## Project Objective
 
 The primary objective of the eLearning Index Project is to offer a user-friendly and data-rich resource for anyone interested in understanding student demand and labor demand in the next ten years (2021-2031) for college programs, the demographic distribution of student as well as progressive degrees. 
